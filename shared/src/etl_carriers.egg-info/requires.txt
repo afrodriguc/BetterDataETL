@@ -1,0 +1,11 @@
+google-cloud-storage>=2.0
+google-cloud-bigquery>=3.0
+google-cloud-pubsub>=2.0
+pandas>=2.0
+openpyxl>=3.0
+python-dateutil>=2.8
+
+[dev]
+pytest>=7.0
+pytest-cov>=4.0
+ruff>=0.4
